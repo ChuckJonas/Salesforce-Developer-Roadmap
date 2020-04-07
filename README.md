@@ -1,3 +1,4 @@
 # Salesforce-Developer-Roadmap
 
- <img src="https://www.lucidchart.com/publicSegments/view/7715bea2-2d52-4d07-92de-362aae8eec79/image.png">
+![image (5)](https://user-images.githubusercontent.com/5217568/78619141-aaaaa300-7839-11ea-85f1-fa26a921a56e.png)
+
