@@ -6,5 +6,6 @@ WIP
 
 [Feedback/Suggestions welcome](https://github.com/ChuckJonas/Salesforce-Developer-Roadmap/issues)
 
-![image (5)](https://user-images.githubusercontent.com/5217568/78619141-aaaaa300-7839-11ea-85f1-fa26a921a56e.png)
+![Salesforce Dev roapmap](https://user-images.githubusercontent.com/5217568/79805222-e27a1600-8322-11ea-94d7-983236b7c147.png)
 
+## Additional Contributors
